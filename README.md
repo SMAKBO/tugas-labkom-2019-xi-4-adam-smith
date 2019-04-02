@@ -1,5 +1,6 @@
 # Tugas-Labkom-2019-XI-4-Adam-Smith
 tugas-labkom-2019-XI-4-adam-smith created by GitHub Classroom
+
 Kami dari kelompok 2:
 1) Ben Eliot Hutabarat (17.63.08613)
 2) Fakhrurizal Achmad (17.63.08644)
