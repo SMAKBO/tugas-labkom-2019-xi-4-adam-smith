@@ -12,6 +12,7 @@ body {
 	font-size: 18px;
 	font-weight: 300;
 	overflow-x: hidden;
+	text-align: justify;
 }
 
 a, button { transition: all 0.3s ease; }
